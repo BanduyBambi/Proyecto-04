@@ -1,0 +1,12 @@
+body {
+    background: Aquamarine
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black
+}
